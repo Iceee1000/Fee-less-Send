@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@solana/spl-token": "^0.2.0",
+    "@solana/web3.js": "^1.37.1",
+    "base58-universal": "^1.0.0",
+    "bs58": "^5.0.0"
+  }
+}
