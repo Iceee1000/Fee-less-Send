@@ -1,7 +1,7 @@
 **Fee-less sending**
 
 setup:
-clone repo and add to project or copy files solana.ts & config.ts files to project
+clone repo and add to project or copy files solana.ts & config.ts to project
 
 check/modify config.ts options
 
