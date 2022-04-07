@@ -1,4 +1,4 @@
-Fee-less sending
+**Fee-less sending**
 
 setup:
 clone repo and add to project or copy files solana.ts & config.ts files to project
